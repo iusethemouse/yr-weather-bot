@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Credentials
+*.session
+*.session-journal
+
+# VSCode fluff
+.vscode/settings.json
